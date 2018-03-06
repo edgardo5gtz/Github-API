@@ -12,8 +12,8 @@ The most important feature the app has to include is a logic filter for the list
 You are free to use any Javascript or CSS frameworks/libraries of your choice.
 
 ## Technologies
-React: I decided to use React for its power to support interactive, easy to create user interfaces.
-Lodash: A javascript library that helps with most of the data processing.
+- React: I decided to use React for its power to support interactive, easy to create user interfaces.
+- Lodash: A javascript library that helps with most of the data processing.
 
 ## Decisions
 - I decided to use React ClI because of the simplicity of the project.
@@ -31,8 +31,14 @@ application state.
 - Pagination: Divides the display of components in pages for a better iteractive, one page experience.
 - IssueInformation: Stateless component that renders the information of the issue.
 
+Inline-style: 
+![alt text](https://github.com/edgardo5gtz/Github-API/blob/master/TessianAppDiagram.png "Information Flow")
 
-
-
-
+#Instructions to build the project
+1. Download the project (zip or clone)
+2. Install node and npm
+3. Be sure to be inside the folder tessian
+4. Run npm install
+5. Run npm start
+6. Enjoy
 
