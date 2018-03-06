@@ -34,7 +34,7 @@ application state.
 Inline-style: 
 ![alt text](https://github.com/edgardo5gtz/Github-API/blob/master/TessianAppDiagram.png "Information Flow")
 
-#Instructions to build the project
+# Instructions to build the project
 1. Download the project (zip or clone)
 2. Install node and npm
 3. Be sure to be inside the folder tessian
