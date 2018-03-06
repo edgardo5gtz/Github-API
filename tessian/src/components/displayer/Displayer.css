@@ -1,0 +1,39 @@
+.Displayer{
+  display: inline-block;
+}
+
+.IssueInfo{
+  margin-top: 40px;
+}
+
+.issue-user{
+  margin-right: 30px;
+}
+
+.issue-url{
+  display: block;
+}
+
+.open{
+  background-color: #2cbe4e;
+  display: inline-block;
+  margin-right: 10px;
+  padding: 4px 8px;
+  font-weight: 400;
+  line-height: 25px;
+  color: #fff;
+  text-align: center;
+  border-radius: 3px;
+}
+
+.closed {
+  background-color: #cb2431;
+  display: inline-block;
+  margin-right: 10px;
+  padding: 4px 8px;
+  font-weight: 400;
+  line-height: 25px;
+  color: #fff;
+  text-align: center;
+  border-radius: 3px;
+}

@@ -1,0 +1,28 @@
+.Filter{
+    height: fit-content;
+    border: 1px solid #3872B5;
+    border-radius: 6px;
+    padding: 30px 20px;
+    box-shadow:  0 0 0 0.1rem rgba(0, 123, 255, 0.452);
+    display: inline-block;
+}
+
+.labelTag{
+    margin: 5px 3px;
+    padding: 5px 7px;
+    display: inline-block;
+    color: white;
+    background : #ED8F30;
+    border-radius: 5px;
+}
+
+.labelImg{
+    margin-left: 5px;
+    max-width: 15px;
+
+}
+
+.btn-primary{
+    background-color: #49B982;
+    border-color: #49B982;
+}
