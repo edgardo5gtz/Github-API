@@ -14,6 +14,7 @@ You are free to use any Javascript or CSS frameworks/libraries of your choice.
 ## Technologies
 - React: I decided to use React for its power to support interactive, easy to create user interfaces.
 - Lodash: A javascript library that helps with most of the data processing.
+- Axios: Promise based HTTP client for the browser and node.js
 
 ## Decisions
 - I decided to use React ClI because of the simplicity of the project.
